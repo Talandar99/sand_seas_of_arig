@@ -1,13 +1,14 @@
 {
     "name": "sand_seas_of_arig",
-    "version": "0.1.2",
+    "version": "0.2.0",
     "title": "Sand Seas of Arig",
     "author": "Talandar",
     "dependencies": [
         "base >= 2.0",
         "planetaris-arig",
         "? elevated-rails",
-        "cargo-ships"
+        "cargo-ships",
+        "talandar_cargo_ships_tweaks"
     ],
     "description": "Mod that remove ground heavy oil patches and add offshore heavy oil instead in order to add more reasons to use Cargo Ships on Arig",
     "factorio_version": "2.0"
